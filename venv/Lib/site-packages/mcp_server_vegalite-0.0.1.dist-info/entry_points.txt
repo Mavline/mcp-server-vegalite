@@ -1,0 +1,2 @@
+[console_scripts]
+mcp_server_vegalite = mcp_server_vegalite:main

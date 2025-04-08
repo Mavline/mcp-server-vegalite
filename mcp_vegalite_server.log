@@ -1,0 +1,353 @@
+2025-04-08 11:31:26,365 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 11:35:27,102 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 11:35:27,107 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 11:35:27,108 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 11:37:37,487 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 11:37:37,492 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 11:37:37,493 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 11:37:38,352 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:38,352 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:38,671 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:38,671 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:38,687 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:38,688 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:38,703 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:38,703 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,401 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,402 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,649 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,651 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,671 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,671 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,780 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,780 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,803 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,803 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,810 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,811 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:37:39,817 - mcp_vegalite_server - INFO - Received SSE connection request
+2025-04-08 11:37:39,817 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:54:00,892 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 11:54:00,895 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 11:54:00,896 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 11:55:02,374 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:05,892 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:08,995 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:12,079 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:15,146 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:18,214 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:21,279 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:24,360 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:27,425 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:30,488 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:33,569 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:36,615 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:39,653 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:42,709 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:45,749 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:48,780 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:51,818 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:54,846 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:55:57,894 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:56:00,924 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:57:53,287 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 11:57:53,291 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 11:57:53,292 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 11:57:55,375 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 11:58:36,684 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:00:18,893 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:03:04,167 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:03:45,419 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:11:49,645 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 12:11:49,649 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 12:11:49,649 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 12:11:51,232 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:11:51,234 - mcp_vegalite_server - ERROR - Error in MCP server: unhandled errors in a TaskGroup (1 sub-exception)
+2025-04-08 12:11:51,339 - mcp_vegalite_server - ERROR - Traceback (most recent call last):
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 111, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 106, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 489, in run
+    async with anyio.create_task_group() as tg:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 771, in __aexit__
+    raise exc_val
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 490, in run
+    async for message in session.incoming_messages:
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\abc\_streams.py", line 35, in __anext__
+    return await self.receive()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 119, in receive
+    await receive_event.wait()
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 1766, in wait
+    await self._event.wait()
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError: Cancelled by cancel scope 1b904dc3ec0
+
+During handling of the above exception, another exception occurred:
+
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\pavelk\Desktop\mcp_servers\mcp-servers\vega_lite_1\isaacwasserman_mcp-vegalite-server\src\mcp_server_vegalite\server.py", line 262, in run_server
+  |     await server.run(
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 483, in run
+  |     async with AsyncExitStack() as stack:
+  |                ^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\contextlib.py", line 754, in __aexit__
+  |     raise exc_details[1]
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\contextlib.py", line 737, in __aexit__
+  |     cb_suppress = await cb(*exc_details)
+  |                   ^^^^^^^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\shared\session.py", line 210, in __aexit__
+  |     return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\shared\session.py", line 301, in _receive_loop
+    |     self._write_stream,
+    |     ^^^^^^^^^^^^^^^^^^
+    | TypeError: 'function' object does not support the asynchronous context manager protocol
+    +------------------------------------
+
+2025-04-08 12:11:52,280 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:11:52,283 - mcp_vegalite_server - ERROR - Error in MCP server: unhandled errors in a TaskGroup (1 sub-exception)
+2025-04-08 12:11:52,288 - mcp_vegalite_server - ERROR - Traceback (most recent call last):
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 111, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 106, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 489, in run
+    async with anyio.create_task_group() as tg:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 771, in __aexit__
+    raise exc_val
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 490, in run
+    async for message in session.incoming_messages:
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\abc\_streams.py", line 35, in __anext__
+    return await self.receive()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 119, in receive
+    await receive_event.wait()
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 1766, in wait
+    await self._event.wait()
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError: Cancelled by cancel scope 1b904dea210
+
+During handling of the above exception, another exception occurred:
+
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\pavelk\Desktop\mcp_servers\mcp-servers\vega_lite_1\isaacwasserman_mcp-vegalite-server\src\mcp_server_vegalite\server.py", line 262, in run_server
+  |     await server.run(
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 483, in run
+  |     async with AsyncExitStack() as stack:
+  |                ^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\contextlib.py", line 754, in __aexit__
+  |     raise exc_details[1]
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\contextlib.py", line 737, in __aexit__
+  |     cb_suppress = await cb(*exc_details)
+  |                   ^^^^^^^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\shared\session.py", line 210, in __aexit__
+  |     return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\shared\session.py", line 301, in _receive_loop
+    |     self._write_stream,
+    |     ^^^^^^^^^^^^^^^^^^
+    | TypeError: 'function' object does not support the asynchronous context manager protocol
+    +------------------------------------
+
+2025-04-08 12:33:44,963 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 12:33:44,976 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 12:33:44,977 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 12:33:45,799 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:33:46,828 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:38:19,241 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 12:38:19,246 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 12:38:19,246 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 12:38:34,822 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:38:34,834 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:38:34,835 - mcp_vegalite_server - INFO - MCP server initialized
+2025-04-08 12:38:34,838 - mcp_vegalite_server - ERROR - Error in MCP server: unhandled errors in a TaskGroup (1 sub-exception)
+2025-04-08 12:38:35,016 - mcp_vegalite_server - ERROR - Traceback (most recent call last):
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 111, in receive
+    return self.receive_nowait()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 106, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 489, in run
+    async with anyio.create_task_group() as tg:
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 771, in __aexit__
+    raise exc_val
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 490, in run
+    async for message in session.incoming_messages:
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\abc\_streams.py", line 35, in __anext__
+    return await self.receive()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\streams\memory.py", line 119, in receive
+    await receive_event.wait()
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 1766, in wait
+    await self._event.wait()
+  File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError: Cancelled by cancel scope 14599c21580
+
+During handling of the above exception, another exception occurred:
+
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\pavelk\Desktop\mcp_servers\mcp-servers\vega_lite_1\isaacwasserman_mcp-vegalite-server\src\mcp_server_vegalite\server.py", line 289, in run_mcp_server
+  |     await server.run(
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\server\lowlevel\server.py", line 483, in run
+  |     async with AsyncExitStack() as stack:
+  |                ^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\contextlib.py", line 754, in __aexit__
+  |     raise exc_details[1]
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\contextlib.py", line 737, in __aexit__
+  |     cb_suppress = await cb(*exc_details)
+  |                   ^^^^^^^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\shared\session.py", line 210, in __aexit__
+  |     return await self._task_group.__aexit__(exc_type, exc_val, exc_tb)
+  |            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\anyio\_backends\_asyncio.py", line 767, in __aexit__
+  |     raise BaseExceptionGroup(
+  | ExceptionGroup: unhandled errors in a TaskGroup (1 sub-exception)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\pavelk\AppData\Local\miniconda3\Lib\site-packages\mcp\shared\session.py", line 300, in _receive_loop
+    |     self._read_stream,
+    |     ^^^^^^^^^^^^^^^^^
+    | TypeError: 'function' object does not support the asynchronous context manager protocol
+    +------------------------------------
+
+2025-04-08 12:43:40,244 - mcp_vegalite_server - INFO - Client disconnected
+2025-04-08 12:43:55,045 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 12:43:55,050 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 12:43:55,051 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 12:48:26,257 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 12:48:26,271 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 12:48:26,272 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 12:48:29,349 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:48:29,365 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:49:02,878 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:49:02,880 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:49:02,930 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 12:51:21,065 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:51:21,066 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:51:21,067 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 12:51:21,070 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 12:51:21,122 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 12:51:21,126 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 12:51:21,142 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 12:51:21,147 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 13:05:30,015 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 13:05:30,022 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 13:05:30,022 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 13:05:31,927 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:05:31,933 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:05:32,630 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:05:32,631 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:05:32,635 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:05:32,637 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:05:39,632 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:05:39,632 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:05:42,673 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:05:42,674 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:12:50,529 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 13:12:50,533 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 13:12:50,534 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 13:12:52,163 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:12:52,163 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:12:52,164 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:12:53,169 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:12:53,170 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:12:53,176 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:12:53,176 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:12:53,176 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:12:53,177 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:13:12,634 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:13:13,649 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:13:13,651 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:13:16,677 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:13:17,687 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:13:17,689 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:13:26,346 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:13:27,372 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:13:27,374 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:13:30,413 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:13:31,425 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:13:31,426 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:13:37,434 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:13:38,430 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:13:38,431 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:13:41,473 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 13:13:42,498 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 13:13:42,498 - mcp_vegalite_server - INFO - SSE Server fully initialized - ready to process requests
+2025-04-08 13:14:13,698 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 13:14:27,409 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 13:14:38,472 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-04-08 17:46:37,328 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 17:46:37,335 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 17:46:37,335 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 17:50:18,574 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 17:50:18,582 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 17:50:18,582 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 17:51:09,763 - mcp_vegalite_server - INFO - SSE connection established: 818423ee-4931-4469-ab81-571f61d00c3e
+2025-04-08 17:52:46,157 - mcp_vegalite_server - INFO - SSE connection established: 8953d434-9f52-4463-a0b8-d7923e89bfb1
+2025-04-08 17:56:15,080 - mcp.server.sse - WARNING - Could not find session for ID: 9f21fe1d-9167-4ed7-a0ca-e2fbce027fde
+2025-04-08 17:56:18,082 - mcp_vegalite_server - INFO - SSE connection established: 1696d7ab-b555-4936-bd3e-c8fd522a45a2
+2025-04-08 17:56:46,364 - mcp_vegalite_server - INFO - SSE connection established: 9df765bd-ecbb-4d31-be80-d6420212a330
+2025-04-08 17:57:51,574 - mcp.server.sse - WARNING - Could not find session for ID: 9f21fe1d-9167-4ed7-a0ca-e2fbce027fde
+2025-04-08 17:57:54,583 - mcp_vegalite_server - INFO - SSE connection established: c3e7113f-136d-4692-b799-fbb8632bc268
+2025-04-08 17:57:56,626 - mcp_vegalite_server - INFO - SSE connection established: d2bd0023-e89c-4d4c-9a95-469f92eff769
+2025-04-08 18:01:26,459 - mcp_vegalite_server - INFO - SSE connection established: 648514dc-9d56-43f7-a177-09e0b23034e9
+2025-04-08 18:01:51,959 - mcp.server.sse - WARNING - Could not find session for ID: 9f21fe1d-9167-4ed7-a0ca-e2fbce027fde
+2025-04-08 18:01:54,967 - mcp_vegalite_server - INFO - SSE connection established: 045edc00-f6f1-43a0-a797-584ec2aedfe9
+2025-04-08 18:03:02,595 - mcp.server.sse - WARNING - Could not find session for ID: 9f21fe1d-9167-4ed7-a0ca-e2fbce027fde
+2025-04-08 18:03:03,563 - mcp_vegalite_server - INFO - SSE connection established: f0dedef9-9378-4a24-a839-e2093365051c
+2025-04-08 18:03:05,595 - mcp_vegalite_server - INFO - SSE connection established: bed12711-10b7-4408-bd42-3ede887f6b21
+2025-04-08 18:05:03,123 - mcp_vegalite_server - INFO - SSE connection established: b0cbca10-3085-430b-bc75-d193dc4003a3
+2025-04-08 18:06:35,075 - mcp_vegalite_server - INFO - SSE connection established: 194058b8-67b2-4b31-a35c-a9249bebea99
+2025-04-08 18:07:03,602 - mcp_vegalite_server - INFO - SSE connection established: 3b32c3c9-d0ee-4665-89ef-edf5863548e0
+2025-04-08 18:08:12,120 - mcp_vegalite_server - INFO - SSE connection established: 8995f171-ec3e-469d-82eb-a0361b1272a6
+2025-04-08 18:08:14,131 - mcp_vegalite_server - INFO - SSE connection established: 948bd402-a170-42d1-bec7-e35123a2856f
+2025-04-08 18:10:08,429 - mcp.server.sse - WARNING - Could not find session for ID: 9f21fe1d-9167-4ed7-a0ca-e2fbce027fde
+2025-04-08 18:10:11,432 - mcp_vegalite_server - INFO - SSE connection established: 4f08ac2a-dd08-4bca-9e60-779264274ea0
+2025-04-08 18:10:44,224 - mcp_vegalite_server - INFO - SSE connection established: 94506a89-5119-4f35-ac60-db98cd26f5fc
+2025-04-08 18:10:51,787 - mcp_vegalite_server - INFO - SSE connection established: ecd44932-bcdb-4468-a1c7-853932b84e39
+2025-04-08 18:11:43,334 - mcp_vegalite_server - INFO - SSE connection established: f70ce3ba-7a4e-4c11-8e4e-dadfccb2ed92
+2025-04-08 18:12:11,788 - mcp_vegalite_server - INFO - SSE connection established: c2d2d421-a20b-4227-a18b-d74d8e7204aa
+2025-04-08 18:30:29,325 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 18:30:29,329 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 18:30:29,330 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 18:31:35,453 - mcp_vegalite_server - INFO - Starting MCP Vega-Lite Server
+2025-04-08 18:31:35,457 - mcp_vegalite_server - INFO - Starting server with transport=sse, output_type=png, port=8000
+2025-04-08 18:31:35,458 - mcp_vegalite_server - INFO - Starting SSE server on port 8000
+2025-04-08 18:31:48,069 - mcp_vegalite_server - INFO - SSE connection established
+2025-04-08 18:31:48,075 - mcp_vegalite_server - INFO - Setting up Vega-Lite MCP Server with output_type=png
+2025-04-08 18:31:48,106 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
