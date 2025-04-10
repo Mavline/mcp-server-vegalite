@@ -155,14 +155,31 @@ async def setup_mcp_server(output_type: str = "png"):
             
             elif name == "visualize_data":
                 data_name = arguments["data_name"]
-                vegalite_specification = eval(arguments["vegalite_specification"])
+                vegalite_specification = json.loads(arguments["vegalite_specification"])
                 data = saved_data[data_name]
                 vegalite_specification["data"] = {"values": data}
                 
                 if output_type == "png":
-                    png = vlc.vegalite_to_png(vl_spec=vegalite_specification, scale=2)
-                    png = base64.b64encode(png).decode("utf-8")
-                    return [types.ImageContent(type="image", data=png, mimeType="image/png")]
+                    # Создаем директорию для изображений, если она не существует
+                    os.makedirs("visualizations", exist_ok=True)
+                    
+                    # Формируем имя файла на основе data_name и текущего времени
+                    import datetime
+                    timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+                    filename = f"visualizations/{data_name}_{timestamp}.png"
+                    
+                    # Сохраняем PNG-изображение в файл
+                    png_data = vlc.vegalite_to_png(vl_spec=vegalite_specification, scale=2)
+                    with open(filename, "wb") as f:
+                        f.write(png_data)
+                    
+                    # Возвращаем информацию о сохраненном файле
+                    # И также отправляем закодированные данные для совместимости
+                    png_base64 = base64.b64encode(png_data).decode("utf-8")
+                    return [
+                        types.TextContent(type="text", text=f"Изображение сохранено в файл: {os.path.abspath(filename)}"),
+                        types.ImageContent(type="image", data=png_base64, mimeType="image/png")
+                    ]
                 else:
                     return [
                         types.TextContent(

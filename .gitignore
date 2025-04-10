@@ -1,6 +1,7 @@
 logs/*
 .env
 .venv
+venv/
 src/mcp_server_vegalite/__pycache__
 uv.lock
 .DS_Store
