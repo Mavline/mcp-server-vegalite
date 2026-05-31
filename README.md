@@ -1,43 +1,60 @@
-# Data Visualization MCP Server
+# LLM-connected Data Visualization Workflow
 
-## Overview
-A Model Context Protocol (MCP) server implementation that provides the LLM an interface for visualizing data using Vega-Lite syntax.
+## What this project demonstrates
 
-## Components
+This project demonstrates a technical integration layer that lets an LLM-connected workflow store tabular data and render Vega-Lite visualizations. The repository implements a Model Context Protocol server, but the business-facing proof is broader: connecting language-model workflows to structured data and chart generation.
 
-### Tools
-The server offers two core tools:
+The project is useful as proof of work for AI-assisted reporting, data visualization workflows, analytics prototypes, and integration layers between LLMs and business data.
 
-- `save_data`
-   - Save a table of data agregations to the server for later visualization
-   - Input:
-     - `name` (string): Name of the data table to be saved
-     - `data` (array): Array of objects representing the data table
-   - Returns: success message
-- `visualize_data`
-   - Visualize a table of data using Vega-Lite syntax
-   - Input:
-     - `data_name` (string): Name of the data table to be visualized
-     - `vegalite_specification` (string): JSON string representing the Vega-Lite specification
-   - Returns: If the `--output_type` is set to `text`, returns a success message with an additional `artifact` key containing the complete Vega-Lite specification with data. If the `--output_type` is set to `png`, returns a base64 encoded PNG image of the visualization using the MPC `ImageContent` container.
+## Use case
 
-## Usage with Claude Desktop
+A user or AI workflow has tabular data and needs to turn it into a chart without manually moving between tools. The server exposes tools for saving table-like data and generating a Vega-Lite visualization from that saved data. Output can be returned as text/spec data or as a PNG image.
 
-```python
-# Add the server to your claude_desktop_config.json
-{
-  "mcpServers": {
-    "datavis": {
-        "command": "uv",
-        "args": [
-            "--directory",
-            "/absolute/path/to/mcp-datavis-server",
-            "run",
-            "mcp_server_datavis",
-            "--output_type",
-            "png" # or "text"
-        ]
-    }
-  }
-}
+## Features
+
+- Save named tabular datasets for later visualization.
+- Generate Vega-Lite visualizations from saved datasets.
+- Return visualization output as text/spec artifacts or PNG images.
+- Support stdio transport for local MCP clients.
+- Include an SSE/FastAPI path for integration experiments.
+- Store generated visualization files locally during runs.
+
+## Technical stack
+
+- Runtime: Python 3.10+.
+- Protocol layer: Model Context Protocol Python SDK.
+- API/server experiments: FastAPI and uvicorn.
+- Visualization: Vega-Lite through vl-convert-python.
+- Packaging: pyproject.toml with a console script entrypoint.
+
+## Architecture
+
+The server exposes two core tools. The first saves a named table of JSON-like rows. The second accepts a Vega-Lite specification, attaches the saved data, renders the chart, and returns either a visualization artifact or PNG image content. This keeps the data handoff explicit and makes the visualization step reproducible.
+
+## How to run locally
+
+Prerequisites:
+
+- Python 3.10 or newer.
+- uv or another Python environment manager.
+
+Install and run with uv:
+
+```bash
+uv sync
+uv run mcp_server_vegalite --output-type png
 ```
+
+Alternative output:
+
+```bash
+uv run mcp_server_vegalite --output-type text
+```
+
+## Portfolio notes
+
+This repository can mention MCP for technical readers, but acty.dev should not sell MCP as a standalone service line. The client-facing framing is LLM-connected data visualization and analytics workflow integration.
+
+This repository is a portfolio/proof-of-work project. It does not include private client data, production credentials, internal datasets, or confidential business logic.
+
+Related acty.dev proof page: `/examples/llm-data-visualization/`.
